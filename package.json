@@ -39,7 +39,7 @@
     "prettier": "^2.3.0",
     "query-string": "^6.9.0",
     "typescript": "^3.0.3",
-    "umi": "^2.8.15",
+    "umi": "^4.0.55",
     "umi-lint": "^1.0.0-alpha.1",
     "umi-plugin-library": "^1.1.6",
     "umi-test": "^1.4.0",
